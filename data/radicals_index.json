@@ -1,0 +1,1286 @@
+[
+  {
+    "num": 1,
+    "id": "一",
+    "pinyin": "yī",
+    "gloss": "one"
+  },
+  {
+    "num": 2,
+    "id": "丨",
+    "pinyin": "shù",
+    "gloss": "line"
+  },
+  {
+    "num": 3,
+    "id": "丶",
+    "pinyin": "diǎn",
+    "gloss": "dot"
+  },
+  {
+    "num": 4,
+    "id": "丿",
+    "pinyin": "piě",
+    "gloss": "slash"
+  },
+  {
+    "num": 5,
+    "id": "乙",
+    "pinyin": "yǐ",
+    "gloss": "second"
+  },
+  {
+    "num": 6,
+    "id": "亅",
+    "pinyin": "gōu",
+    "gloss": "hook"
+  },
+  {
+    "num": 7,
+    "id": "二",
+    "pinyin": "èr",
+    "gloss": "two"
+  },
+  {
+    "num": 8,
+    "id": "亠",
+    "pinyin": "tóu",
+    "gloss": "lid"
+  },
+  {
+    "num": 9,
+    "id": "人",
+    "pinyin": "rén",
+    "gloss": "person"
+  },
+  {
+    "num": 10,
+    "id": "儿",
+    "pinyin": "ér",
+    "gloss": "legs"
+  },
+  {
+    "num": 11,
+    "id": "入",
+    "pinyin": "rù",
+    "gloss": "enter"
+  },
+  {
+    "num": 12,
+    "id": "八",
+    "pinyin": "bā",
+    "gloss": "eight"
+  },
+  {
+    "num": 13,
+    "id": "冂",
+    "pinyin": "jiǒng",
+    "gloss": "down box"
+  },
+  {
+    "num": 14,
+    "id": "冖",
+    "pinyin": "mì",
+    "gloss": "cover"
+  },
+  {
+    "num": 15,
+    "id": "冫",
+    "pinyin": "bīng",
+    "gloss": "ice"
+  },
+  {
+    "num": 16,
+    "id": "几",
+    "pinyin": "jī, jǐ",
+    "gloss": "table"
+  },
+  {
+    "num": 17,
+    "id": "凵",
+    "pinyin": "qǔ",
+    "gloss": "open box"
+  },
+  {
+    "num": 18,
+    "id": "刀",
+    "pinyin": "dāo",
+    "gloss": "knife"
+  },
+  {
+    "num": 19,
+    "id": "力",
+    "pinyin": "lì",
+    "gloss": "power"
+  },
+  {
+    "num": 20,
+    "id": "勹",
+    "pinyin": "bāo",
+    "gloss": "wrap"
+  },
+  {
+    "num": 21,
+    "id": "匕",
+    "pinyin": "bǐ",
+    "gloss": "ladle"
+  },
+  {
+    "num": 22,
+    "id": "匚",
+    "pinyin": "fāng",
+    "gloss": "right open box"
+  },
+  {
+    "num": 23,
+    "id": "匸",
+    "pinyin": "xǐ",
+    "gloss": "hiding enclosure"
+  },
+  {
+    "num": 24,
+    "id": "十",
+    "pinyin": "shí",
+    "gloss": "ten"
+  },
+  {
+    "num": 25,
+    "id": "卜",
+    "pinyin": "bǔ",
+    "gloss": "divination"
+  },
+  {
+    "num": 26,
+    "id": "卩",
+    "pinyin": "jié",
+    "gloss": "seal"
+  },
+  {
+    "num": 27,
+    "id": "厂",
+    "pinyin": "hàn",
+    "gloss": "cliff"
+  },
+  {
+    "num": 28,
+    "id": "厶",
+    "pinyin": "sī",
+    "gloss": "private"
+  },
+  {
+    "num": 29,
+    "id": "又",
+    "pinyin": "yòu",
+    "gloss": "again"
+  },
+  {
+    "num": 30,
+    "id": "口",
+    "pinyin": "kǒu",
+    "gloss": "mouth"
+  },
+  {
+    "num": 31,
+    "id": "囗",
+    "pinyin": "wéi",
+    "gloss": "enclosure"
+  },
+  {
+    "num": 32,
+    "id": "土",
+    "pinyin": "tǔ",
+    "gloss": "earth"
+  },
+  {
+    "num": 33,
+    "id": "士",
+    "pinyin": "shì",
+    "gloss": "scholar"
+  },
+  {
+    "num": 34,
+    "id": "夂",
+    "pinyin": "zhī",
+    "gloss": "go"
+  },
+  {
+    "num": 35,
+    "id": "夊",
+    "pinyin": "suī",
+    "gloss": "go slowly"
+  },
+  {
+    "num": 36,
+    "id": "夕",
+    "pinyin": "xī",
+    "gloss": "night"
+  },
+  {
+    "num": 37,
+    "id": "大",
+    "pinyin": "dà",
+    "gloss": "big"
+  },
+  {
+    "num": 38,
+    "id": "女",
+    "pinyin": "nǚ",
+    "gloss": "woman"
+  },
+  {
+    "num": 39,
+    "id": "子",
+    "pinyin": "zǐ",
+    "gloss": "child"
+  },
+  {
+    "num": 40,
+    "id": "宀",
+    "pinyin": "gài",
+    "gloss": "roof"
+  },
+  {
+    "num": 41,
+    "id": "寸",
+    "pinyin": "cùn",
+    "gloss": "inch"
+  },
+  {
+    "num": 42,
+    "id": "小",
+    "pinyin": "xiǎo",
+    "gloss": "small"
+  },
+  {
+    "num": 43,
+    "id": "尢",
+    "pinyin": "yóu",
+    "gloss": "lame"
+  },
+  {
+    "num": 44,
+    "id": "尸",
+    "pinyin": "shī",
+    "gloss": "corpse"
+  },
+  {
+    "num": 45,
+    "id": "屮",
+    "pinyin": "chè",
+    "gloss": "sprout"
+  },
+  {
+    "num": 46,
+    "id": "山",
+    "pinyin": "shān",
+    "gloss": "mountain"
+  },
+  {
+    "num": 47,
+    "id": "川",
+    "pinyin": "chuān",
+    "gloss": "river"
+  },
+  {
+    "num": 48,
+    "id": "工",
+    "pinyin": "gōng",
+    "gloss": "work"
+  },
+  {
+    "num": 49,
+    "id": "己",
+    "pinyin": "jǐ",
+    "gloss": "oneself"
+  },
+  {
+    "num": 50,
+    "id": "巾",
+    "pinyin": "jīn",
+    "gloss": "towel"
+  },
+  {
+    "num": 51,
+    "id": "干",
+    "pinyin": "gān",
+    "gloss": "dry"
+  },
+  {
+    "num": 52,
+    "id": "幺",
+    "pinyin": "yāo",
+    "gloss": "thread"
+  },
+  {
+    "num": 53,
+    "id": "广",
+    "pinyin": "guǎng",
+    "gloss": "shelter"
+  },
+  {
+    "num": 54,
+    "id": "廴",
+    "pinyin": "yǐn",
+    "gloss": "stride"
+  },
+  {
+    "num": 55,
+    "id": "廾",
+    "pinyin": "gǒng",
+    "gloss": "hands joined"
+  },
+  {
+    "num": 56,
+    "id": "弋",
+    "pinyin": "yì",
+    "gloss": "shoot with a bow"
+  },
+  {
+    "num": 57,
+    "id": "弓",
+    "pinyin": "gōng",
+    "gloss": "bow"
+  },
+  {
+    "num": 58,
+    "id": "彐",
+    "pinyin": "jì",
+    "gloss": "snout"
+  },
+  {
+    "num": 59,
+    "id": "彡",
+    "pinyin": "shān",
+    "gloss": "hair"
+  },
+  {
+    "num": 60,
+    "id": "彳",
+    "pinyin": "chì",
+    "gloss": "step"
+  },
+  {
+    "num": 61,
+    "id": "心",
+    "pinyin": "xīn",
+    "gloss": "heart"
+  },
+  {
+    "num": 62,
+    "id": "戈",
+    "pinyin": "gē",
+    "gloss": "spear"
+  },
+  {
+    "num": 63,
+    "id": "户",
+    "pinyin": "hù",
+    "gloss": "door"
+  },
+  {
+    "num": 64,
+    "id": "手",
+    "pinyin": "shǒu",
+    "gloss": "hand"
+  },
+  {
+    "num": 65,
+    "id": "支",
+    "pinyin": "zhī",
+    "gloss": "branch"
+  },
+  {
+    "num": 66,
+    "id": "攴",
+    "pinyin": "pū",
+    "gloss": "rap"
+  },
+  {
+    "num": 67,
+    "id": "文",
+    "pinyin": "wén",
+    "gloss": "script"
+  },
+  {
+    "num": 68,
+    "id": "斗",
+    "pinyin": "dǒu",
+    "gloss": "dipper"
+  },
+  {
+    "num": 69,
+    "id": "斤",
+    "pinyin": "jīn",
+    "gloss": "axe"
+  },
+  {
+    "num": 70,
+    "id": "方",
+    "pinyin": "fāng",
+    "gloss": "square"
+  },
+  {
+    "num": 71,
+    "id": "无",
+    "pinyin": "wú",
+    "gloss": "not"
+  },
+  {
+    "num": 72,
+    "id": "日",
+    "pinyin": "rì",
+    "gloss": "sun"
+  },
+  {
+    "num": 73,
+    "id": "曰",
+    "pinyin": "yuē",
+    "gloss": "say"
+  },
+  {
+    "num": 74,
+    "id": "月",
+    "pinyin": "yuè",
+    "gloss": "moon"
+  },
+  {
+    "num": 75,
+    "id": "木",
+    "pinyin": "mù",
+    "gloss": "tree"
+  },
+  {
+    "num": 76,
+    "id": "欠",
+    "pinyin": "qiàn",
+    "gloss": "lack"
+  },
+  {
+    "num": 77,
+    "id": "止",
+    "pinyin": "zhǐ",
+    "gloss": "stop"
+  },
+  {
+    "num": 78,
+    "id": "歹",
+    "pinyin": "dǎi",
+    "gloss": "death"
+  },
+  {
+    "num": 79,
+    "id": "殳",
+    "pinyin": "shū",
+    "gloss": "weapon"
+  },
+  {
+    "num": 80,
+    "id": "母",
+    "pinyin": "mǔ",
+    "gloss": "mother"
+  },
+  {
+    "num": 81,
+    "id": "比",
+    "pinyin": "bǐ",
+    "gloss": "compare"
+  },
+  {
+    "num": 82,
+    "id": "毛",
+    "pinyin": "máo",
+    "gloss": "fur"
+  },
+  {
+    "num": 83,
+    "id": "氏",
+    "pinyin": "shì",
+    "gloss": "clan"
+  },
+  {
+    "num": 84,
+    "id": "气",
+    "pinyin": "qì",
+    "gloss": "steam"
+  },
+  {
+    "num": 85,
+    "id": "水",
+    "pinyin": "shuǐ",
+    "gloss": "water"
+  },
+  {
+    "num": 86,
+    "id": "火",
+    "pinyin": "huǒ",
+    "gloss": "fire"
+  },
+  {
+    "num": 87,
+    "id": "爪",
+    "pinyin": "zhǎo",
+    "gloss": "claw"
+  },
+  {
+    "num": 88,
+    "id": "父",
+    "pinyin": "fù",
+    "gloss": "father"
+  },
+  {
+    "num": 89,
+    "id": "爻",
+    "pinyin": "yáo",
+    "gloss": "lines on a trigram"
+  },
+  {
+    "num": 90,
+    "id": "爿",
+    "pinyin": "qiáng",
+    "gloss": "half of a tree trunk"
+  },
+  {
+    "num": 91,
+    "id": "片",
+    "pinyin": "piàn",
+    "gloss": "slice"
+  },
+  {
+    "num": 92,
+    "id": "牙",
+    "pinyin": "yá",
+    "gloss": "tooth"
+  },
+  {
+    "num": 93,
+    "id": "牛",
+    "pinyin": "niú",
+    "gloss": "cow"
+  },
+  {
+    "num": 94,
+    "id": "犭",
+    "pinyin": "quǎn",
+    "gloss": "dog"
+  },
+  {
+    "num": 95,
+    "id": "玄",
+    "pinyin": "xuán",
+    "gloss": "profound"
+  },
+  {
+    "num": 96,
+    "id": "玉",
+    "pinyin": "yù",
+    "gloss": "jade"
+  },
+  {
+    "num": 97,
+    "id": "瓜",
+    "pinyin": "guā",
+    "gloss": "melon"
+  },
+  {
+    "num": 98,
+    "id": "瓦",
+    "pinyin": "wǎ",
+    "gloss": "tile"
+  },
+  {
+    "num": 99,
+    "id": "甘",
+    "pinyin": "gān",
+    "gloss": "sweet"
+  },
+  {
+    "num": 100,
+    "id": "生",
+    "pinyin": "shēng",
+    "gloss": "life"
+  },
+  {
+    "num": 101,
+    "id": "用",
+    "pinyin": "yòng",
+    "gloss": "use"
+  },
+  {
+    "num": 102,
+    "id": "田",
+    "pinyin": "tián",
+    "gloss": "field"
+  },
+  {
+    "num": 103,
+    "id": "疋",
+    "pinyin": "pǐ",
+    "gloss": "cloth"
+  },
+  {
+    "num": 104,
+    "id": "疒",
+    "pinyin": "bìng",
+    "gloss": "ill"
+  },
+  {
+    "num": 105,
+    "id": "癶",
+    "pinyin": "bō",
+    "gloss": "foot steps"
+  },
+  {
+    "num": 106,
+    "id": "白",
+    "pinyin": "bái",
+    "gloss": "white"
+  },
+  {
+    "num": 107,
+    "id": "皮",
+    "pinyin": "pí",
+    "gloss": "skin"
+  },
+  {
+    "num": 108,
+    "id": "皿",
+    "pinyin": "mǐn",
+    "gloss": "dish"
+  },
+  {
+    "num": 109,
+    "id": "目",
+    "pinyin": "mù",
+    "gloss": "eye"
+  },
+  {
+    "num": 110,
+    "id": "矛",
+    "pinyin": "máo",
+    "gloss": "spear"
+  },
+  {
+    "num": 111,
+    "id": "矢",
+    "pinyin": "shǐ",
+    "gloss": "arrow"
+  },
+  {
+    "num": 112,
+    "id": "石",
+    "pinyin": "shí",
+    "gloss": "stone"
+  },
+  {
+    "num": 113,
+    "id": "示",
+    "pinyin": "shì",
+    "gloss": "spirit"
+  },
+  {
+    "num": 114,
+    "id": "禸",
+    "pinyin": "róu",
+    "gloss": "track"
+  },
+  {
+    "num": 115,
+    "id": "禾",
+    "pinyin": "hé",
+    "gloss": "grain"
+  },
+  {
+    "num": 116,
+    "id": "穴",
+    "pinyin": "xuè",
+    "gloss": "cave"
+  },
+  {
+    "num": 117,
+    "id": "立",
+    "pinyin": "lì",
+    "gloss": "stand"
+  },
+  {
+    "num": 118,
+    "id": "竹",
+    "pinyin": "zhú",
+    "gloss": "bamboo"
+  },
+  {
+    "num": 119,
+    "id": "米",
+    "pinyin": "mǐ",
+    "gloss": "rice"
+  },
+  {
+    "num": 120,
+    "id": "纟",
+    "pinyin": "sī",
+    "gloss": "silk"
+  },
+  {
+    "num": 121,
+    "id": "缶",
+    "pinyin": "fǒu",
+    "gloss": "jar"
+  },
+  {
+    "num": 122,
+    "id": "网",
+    "pinyin": "wǎng",
+    "gloss": "net"
+  },
+  {
+    "num": 123,
+    "id": "羊",
+    "pinyin": "yáng",
+    "gloss": "sheep"
+  },
+  {
+    "num": 124,
+    "id": "羽",
+    "pinyin": "yǔ",
+    "gloss": "feather"
+  },
+  {
+    "num": 125,
+    "id": "老",
+    "pinyin": "lǎo",
+    "gloss": "old"
+  },
+  {
+    "num": 126,
+    "id": "而",
+    "pinyin": "ér",
+    "gloss": "and"
+  },
+  {
+    "num": 127,
+    "id": "耒",
+    "pinyin": "lěi",
+    "gloss": "plow"
+  },
+  {
+    "num": 128,
+    "id": "耳",
+    "pinyin": "ěr",
+    "gloss": "ear"
+  },
+  {
+    "num": 129,
+    "id": "聿",
+    "pinyin": "yù",
+    "gloss": "brush"
+  },
+  {
+    "num": 130,
+    "id": "肉",
+    "pinyin": "ròu",
+    "gloss": "meat"
+  },
+  {
+    "num": 131,
+    "id": "臣",
+    "pinyin": "chén",
+    "gloss": "minister"
+  },
+  {
+    "num": 132,
+    "id": "自",
+    "pinyin": "zì",
+    "gloss": "oneself"
+  },
+  {
+    "num": 133,
+    "id": "至",
+    "pinyin": "zhì",
+    "gloss": "arrive"
+  },
+  {
+    "num": 134,
+    "id": "臼",
+    "pinyin": "jiù",
+    "gloss": "mortar"
+  },
+  {
+    "num": 135,
+    "id": "舌",
+    "pinyin": "shé",
+    "gloss": "tongue"
+  },
+  {
+    "num": 136,
+    "id": "舛",
+    "pinyin": "chuǎn",
+    "gloss": "contrary"
+  },
+  {
+    "num": 137,
+    "id": "舟",
+    "pinyin": "zhōu",
+    "gloss": "boat"
+  },
+  {
+    "num": 138,
+    "id": "艮",
+    "pinyin": "gèn",
+    "gloss": "mountain"
+  },
+  {
+    "num": 139,
+    "id": "色",
+    "pinyin": "sè",
+    "gloss": "color"
+  },
+  {
+    "num": 140,
+    "id": "艹",
+    "pinyin": "cǎo",
+    "gloss": "grass"
+  },
+  {
+    "num": 141,
+    "id": "虍",
+    "pinyin": "hǔ",
+    "gloss": "tiger"
+  },
+  {
+    "num": 142,
+    "id": "虫",
+    "pinyin": "chóng",
+    "gloss": "insect"
+  },
+  {
+    "num": 143,
+    "id": "血",
+    "pinyin": "xuě",
+    "gloss": "blood"
+  },
+  {
+    "num": 144,
+    "id": "行",
+    "pinyin": "xíng",
+    "gloss": "walk"
+  },
+  {
+    "num": 145,
+    "id": "衣",
+    "pinyin": "yī",
+    "gloss": "clothes"
+  },
+  {
+    "num": 146,
+    "id": "西",
+    "pinyin": "xī",
+    "gloss": "west"
+  },
+  {
+    "num": 147,
+    "id": "见",
+    "pinyin": "jiàn",
+    "gloss": "see"
+  },
+  {
+    "num": 148,
+    "id": "角",
+    "pinyin": "jiǎo",
+    "gloss": "horn"
+  },
+  {
+    "num": 149,
+    "id": "讠",
+    "pinyin": "yán",
+    "gloss": "speech"
+  },
+  {
+    "num": 150,
+    "id": "谷",
+    "pinyin": "gǔ",
+    "gloss": "valley"
+  },
+  {
+    "num": 151,
+    "id": "豆",
+    "pinyin": "dòu",
+    "gloss": "bean"
+  },
+  {
+    "num": 152,
+    "id": "豕",
+    "pinyin": "shǐ",
+    "gloss": "pig"
+  },
+  {
+    "num": 153,
+    "id": "豸",
+    "pinyin": "zhì",
+    "gloss": "badger"
+  },
+  {
+    "num": 154,
+    "id": "贝",
+    "pinyin": "bèi",
+    "gloss": "shell"
+  },
+  {
+    "num": 155,
+    "id": "赤",
+    "pinyin": "chì",
+    "gloss": "red"
+  },
+  {
+    "num": 156,
+    "id": "走",
+    "pinyin": "zǒu",
+    "gloss": "walk"
+  },
+  {
+    "num": 157,
+    "id": "足",
+    "pinyin": "zú",
+    "gloss": "foot"
+  },
+  {
+    "num": 158,
+    "id": "身",
+    "pinyin": "shēn",
+    "gloss": "body"
+  },
+  {
+    "num": 159,
+    "id": "车",
+    "pinyin": "chē",
+    "gloss": "cart"
+  },
+  {
+    "num": 160,
+    "id": "辛",
+    "pinyin": "xīn",
+    "gloss": "bitter"
+  },
+  {
+    "num": 161,
+    "id": "辰",
+    "pinyin": "chén",
+    "gloss": "morning"
+  },
+  {
+    "num": 162,
+    "id": "辶",
+    "pinyin": "chuò",
+    "gloss": "walk"
+  },
+  {
+    "num": 163,
+    "id": "邑",
+    "pinyin": "yì",
+    "gloss": "city"
+  },
+  {
+    "num": 164,
+    "id": "酉",
+    "pinyin": "yǒu",
+    "gloss": "wine"
+  },
+  {
+    "num": 165,
+    "id": "釆",
+    "pinyin": "biàn",
+    "gloss": "distinguish"
+  },
+  {
+    "num": 166,
+    "id": "里",
+    "pinyin": "lǐ",
+    "gloss": "village"
+  },
+  {
+    "num": 167,
+    "id": "钅",
+    "pinyin": "jīn",
+    "gloss": "metal"
+  },
+  {
+    "num": 168,
+    "id": "长",
+    "pinyin": "cháng",
+    "gloss": "long"
+  },
+  {
+    "num": 169,
+    "id": "门",
+    "pinyin": "mén",
+    "gloss": "gate"
+  },
+  {
+    "num": 170,
+    "id": "阜",
+    "pinyin": "fù",
+    "gloss": "mound"
+  },
+  {
+    "num": 171,
+    "id": "隶",
+    "pinyin": "lì",
+    "gloss": "slave"
+  },
+  {
+    "num": 172,
+    "id": "隹",
+    "pinyin": "zhuī",
+    "gloss": "short-tailed bird"
+  },
+  {
+    "num": 173,
+    "id": "雨",
+    "pinyin": "yǔ",
+    "gloss": "rain"
+  },
+  {
+    "num": 174,
+    "id": "青",
+    "pinyin": "qīng",
+    "gloss": "blue"
+  },
+  {
+    "num": 175,
+    "id": "非",
+    "pinyin": "fēi",
+    "gloss": "wrong"
+  },
+  {
+    "num": 176,
+    "id": "面",
+    "pinyin": "miàn",
+    "gloss": "face"
+  },
+  {
+    "num": 177,
+    "id": "革",
+    "pinyin": "gé",
+    "gloss": "leather"
+  },
+  {
+    "num": 178,
+    "id": "韦",
+    "pinyin": "wěi",
+    "gloss": "soft leather"
+  },
+  {
+    "num": 179,
+    "id": "韭",
+    "pinyin": "jiǔ",
+    "gloss": "leek"
+  },
+  {
+    "num": 180,
+    "id": "音",
+    "pinyin": "yīn",
+    "gloss": "sound"
+  },
+  {
+    "num": 181,
+    "id": "页",
+    "pinyin": "yè",
+    "gloss": "page"
+  },
+  {
+    "num": 182,
+    "id": "风",
+    "pinyin": "fēng",
+    "gloss": "wind"
+  },
+  {
+    "num": 183,
+    "id": "飞",
+    "pinyin": "fēi",
+    "gloss": "fly"
+  },
+  {
+    "num": 184,
+    "id": "饣",
+    "pinyin": "shí",
+    "gloss": "eat"
+  },
+  {
+    "num": 185,
+    "id": "首",
+    "pinyin": "shǒu",
+    "gloss": "head"
+  },
+  {
+    "num": 186,
+    "id": "香",
+    "pinyin": "xiāng",
+    "gloss": "fragrant"
+  },
+  {
+    "num": 187,
+    "id": "马",
+    "pinyin": "mǎ",
+    "gloss": "horse"
+  },
+  {
+    "num": 188,
+    "id": "骨",
+    "pinyin": "gǔ",
+    "gloss": "bone"
+  },
+  {
+    "num": 189,
+    "id": "高",
+    "pinyin": "gāo",
+    "gloss": "high"
+  },
+  {
+    "num": 190,
+    "id": "髟",
+    "pinyin": "biāo",
+    "gloss": "long hair"
+  },
+  {
+    "num": 191,
+    "id": "鬥",
+    "pinyin": "dòu",
+    "gloss": "fight"
+  },
+  {
+    "num": 192,
+    "id": "鬯",
+    "pinyin": "chàng",
+    "gloss": "sacrificial wine"
+  },
+  {
+    "num": 193,
+    "id": "鬲",
+    "pinyin": "lì",
+    "gloss": "cauldron"
+  },
+  {
+    "num": 194,
+    "id": "鬼",
+    "pinyin": "guǐ",
+    "gloss": "ghost"
+  },
+  {
+    "num": 195,
+    "id": "鱼",
+    "pinyin": "yú",
+    "gloss": "fish"
+  },
+  {
+    "num": 196,
+    "id": "鸟",
+    "pinyin": "niǎo",
+    "gloss": "bird"
+  },
+  {
+    "num": 197,
+    "id": "卤",
+    "pinyin": "lǔ",
+    "gloss": "salty"
+  },
+  {
+    "num": 198,
+    "id": "鹿",
+    "pinyin": "lù",
+    "gloss": "deer"
+  },
+  {
+    "num": 199,
+    "id": "麦",
+    "pinyin": "mài",
+    "gloss": "wheat"
+  },
+  {
+    "num": 200,
+    "id": "麻",
+    "pinyin": "má",
+    "gloss": "hemp"
+  },
+  {
+    "num": 201,
+    "id": "黄",
+    "pinyin": "huáng",
+    "gloss": "yellow"
+  },
+  {
+    "num": 202,
+    "id": "黍",
+    "pinyin": "shǔ",
+    "gloss": "millet"
+  },
+  {
+    "num": 203,
+    "id": "黑",
+    "pinyin": "hēi",
+    "gloss": "black"
+  },
+  {
+    "num": 204,
+    "id": "黹",
+    "pinyin": "zhǐ",
+    "gloss": "embroidery"
+  },
+  {
+    "num": 205,
+    "id": "黾",
+    "pinyin": "mǐn",
+    "gloss": "frog"
+  },
+  {
+    "num": 206,
+    "id": "鼎",
+    "pinyin": "dǐng",
+    "gloss": "tripod"
+  },
+  {
+    "num": 207,
+    "id": "鼓",
+    "pinyin": "gǔ",
+    "gloss": "drum"
+  },
+  {
+    "num": 208,
+    "id": "鼠",
+    "pinyin": "shǔ",
+    "gloss": "rat"
+  },
+  {
+    "num": 209,
+    "id": "鼻",
+    "pinyin": "bí",
+    "gloss": "nose"
+  },
+  {
+    "num": 210,
+    "id": "齐",
+    "pinyin": "qí",
+    "gloss": "even"
+  },
+  {
+    "num": 211,
+    "id": "齿",
+    "pinyin": "chǐ",
+    "gloss": "tooth"
+  },
+  {
+    "num": 212,
+    "id": "龙",
+    "pinyin": "lóng",
+    "gloss": "dragon"
+  },
+  {
+    "num": 213,
+    "id": "龟",
+    "pinyin": "guī",
+    "gloss": "turtle"
+  },
+  {
+    "num": 214,
+    "id": "龠",
+    "pinyin": "yuè",
+    "gloss": "flute"
+  }
+]
