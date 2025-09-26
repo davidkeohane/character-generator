@@ -1,0 +1,17 @@
+[
+  {
+    "id": "氵",
+    "type": "semantic",
+    "meaning": "water",
+    "legal_slots": ["left"],
+    "svg_path": "../svg/radicals/water.svg"
+  },
+  {
+    "id": "青",
+    "type": "phonetic",
+    "common_readings": ["qing1", "jing1"],
+    "meaning": "blue/green",
+    "legal_slots": ["right", "bottom"],
+    "svg_path": "../svg/phonetics/qing.svg"
+  }
+]

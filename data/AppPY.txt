@@ -1,0 +1,82 @@
+
+<!doctype html>
+<meta charset="utf-8">
+<title>Radical Recommender</title>
+<style>
+  body { font: 16px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; margin: 24px; }
+  form { margin-bottom: 16px; }
+  input[type=text]{ padding:8px; width:340px; }
+  select, button { padding:8px; }
+  table { border-collapse: collapse; margin-top: 10px; }
+  th, td { border:1px solid #ddd; padding:8px; }
+  th { background:#f6f6f6; }
+  .glyph { font-size: 28px; text-align:center; width:64px; }
+  .muted { color:#666; }
+</style>
+
+<h1>Radical Recommender</h1>
+<form method="GET">
+  <input type="text" name="q" placeholder="Type a word (e.g., ocean, love, fire)" value="{{q or ''}}" autofocus>
+  <select name="k">
+    {% for n in [2,3] %}<option value="{{n}}" {% if k==n %}selected{% endif %}>Top {{n}}</option>{% endfor %}
+  </select>
+  <select name="layout">
+    <option value="lr" {% if layout=='lr' %}selected{% endif %}>⿰ left-right</option>
+    <option value="tb" {% if layout=='tb' %}selected{% endif %}>⿱ top-bottom</option>
+  </select>
+  <button>Generate</button>
+</form>
+
+{% if composed_name %}
+  <h2>Composed glyph ({{ '⿰' if layout=='lr' else '⿱' }})</h2>
+  <div style="display:flex;align-items:center;gap:16px;margin:10px 0 18px;">
+    <img src="/gen/{{composed_name}}" alt="composed glyph" style="width:256px;height:256px;border:1px solid #ddd;border-radius:8px;background:#fff;">
+    <div class="muted">
+      Built from top {{k}} radical{{'' if k==1 else 's'}} using {{ 'left–right (⿰)' if layout=='lr' else 'top–bottom (⿱)' }} layout.<br>
+      (Tight input <code>viewBox</code> = tighter spacing. Adjust kerning/gutter in code if needed.)
+    </div>
+  </div>
+{% endif %}
+
+{% if q %}
+  {% if picks %}
+    <div class="muted">Query: <strong>{{q}}</strong> → showing top {{k}} radical{{'' if k==1 else 's'}}</div>
+    <table>
+      <tr><th>#</th><th>Radical</th><th>Num</th><th>Pinyin</th><th>English</th><th>Score</th><th>Why this radical?</th></tr>
+      {% for i, r in enumerate(picks, start=1) %}
+        <tr>
+          <td>{{i}}</td>
+          <td class="glyph">{{r.id}}</td>
+          <td>{{r.num}}</td>
+          <td>{{r.pinyin}}</td>
+          <td>{{r.gloss}}</td>
+          <td>{{r.score}}</td>
+          <td>
+            {% if r.matched_tokens %}<b>matches</b>: {{", ".join(r.matched_tokens)}}{% endif %}
+            {% if r.fuzzy_tokens %}{% if r.matched_tokens %}; {% endif %}<b>fuzzy</b>: {{", ".join(r.fuzzy_tokens)}}{% endif %}
+            {% if not r.matched_tokens and not r.fuzzy_tokens %}semantic nearest by embedding{% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+    {% if dict_hits %}
+      <h2>Actual Character</h2>
+      <table>
+        <tr><th>Simplified / Traditional</th><th>Pinyin</th><th>Definition(s)</th></tr>
+        {% for d in dict_hits %}
+          <tr>
+            <td style="font-size:28px">{{ d.simp }} <span class="muted">/ {{ d.trad }}</span></td>
+            <td>{{ d.pinyin }}</td>
+            <td>{{ "; ".join(d.defs[:3]) }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    {% else %}
+      <p class="muted">No direct CC-CEDICT hit for “{{q}}”. Try a near synonym.</p>
+    {% endif %}
+  {% else %}
+    <p>No results (this shouldn’t happen). Try another word.</p>
+  {% endif %}
+{% else %}
+  <p class="muted">Tip: try words like <i>ocean</i>, <i>love</i>, <i>rain</i>, <i>mountain</i>, <i>knife</i>, <i>speech</i>.</p>
+{% endif %}
