@@ -6,9 +6,9 @@ from flask import Flask, request, render_template_string, send_from_directory
 import pathlib, time, json, re
 
 # --- Imports for your logic ---
-from choose_embed import choose          # embedding-based chooser
-from cedict_lookup import search_en      # CC-CEDICT lookups
-from compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
+from scripts.choose_embed import choose          # embedding-based chooser
+from scripts.cedict_lookup import search_en      # CC-CEDICT lookups
+from scripts.compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
 
 # --- Paths & globals ---
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -159,7 +159,7 @@ HTML = """
     <p>No results (this shouldn’t happen). Try another word.</p>
   {% endif %}
 {% else %}
-  <p class="muted">Tip: words with <i>ism</i> at the end can be pretty funny.</p>
+  <p class="muted">Tip: words with <i>ism</i> at the end can be funny.</p>
 {% endif %}
 """
 
