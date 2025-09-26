@@ -1,0 +1,2459 @@
+[
+  {
+    "num": 1,
+    "id": "一",
+    "pinyin": "yī",
+    "gloss": "one",
+    "strokes": 1,
+    "tags": [
+      "one"
+    ],
+    "svg_path": "../svg/radicals/001.svg"
+  },
+  {
+    "num": 2,
+    "id": "丨",
+    "pinyin": "shù",
+    "gloss": "line",
+    "strokes": 1,
+    "tags": [
+      "line"
+    ],
+    "svg_path": "../svg/radicals/002.svg"
+  },
+  {
+    "num": 3,
+    "id": "丶",
+    "pinyin": "diǎn",
+    "gloss": "dot",
+    "strokes": 1,
+    "tags": [
+      "dot"
+    ],
+    "svg_path": "../svg/radicals/003.svg"
+  },
+  {
+    "num": 4,
+    "id": "丿",
+    "pinyin": "piě",
+    "gloss": "slash",
+    "strokes": 1,
+    "tags": [
+      "slash"
+    ],
+    "svg_path": "../svg/radicals/004.svg"
+  },
+  {
+    "num": 5,
+    "id": "乙",
+    "pinyin": "yǐ",
+    "gloss": "second",
+    "strokes": 1,
+    "tags": [
+      "second"
+    ],
+    "svg_path": "../svg/radicals/005.svg"
+  },
+  {
+    "num": 6,
+    "id": "亅",
+    "pinyin": "gōu",
+    "gloss": "hook",
+    "strokes": 1,
+    "tags": [
+      "hook"
+    ],
+    "svg_path": "../svg/radicals/006.svg"
+  },
+  {
+    "num": 7,
+    "id": "二",
+    "pinyin": "èr",
+    "gloss": "two",
+    "strokes": 2,
+    "tags": [
+      "two"
+    ],
+    "svg_path": "../svg/radicals/007.svg"
+  },
+  {
+    "num": 8,
+    "id": "亠",
+    "pinyin": "tóu",
+    "gloss": "lid",
+    "strokes": 2,
+    "tags": [
+      "lid"
+    ],
+    "svg_path": "../svg/radicals/008.svg"
+  },
+  {
+    "num": 9,
+    "id": "人",
+    "pinyin": "rén",
+    "gloss": "person",
+    "strokes": 2,
+    "tags": [
+      "person"
+    ],
+    "svg_path": "../svg/radicals/009.svg"
+  },
+  {
+    "num": 10,
+    "id": "儿",
+    "pinyin": "ér",
+    "gloss": "legs",
+    "strokes": 2,
+    "tags": [
+      "legs"
+    ],
+    "svg_path": "../svg/radicals/010.svg"
+  },
+  {
+    "num": 11,
+    "id": "入",
+    "pinyin": "rù",
+    "gloss": "enter",
+    "strokes": 2,
+    "tags": [
+      "enter"
+    ],
+    "svg_path": "../svg/radicals/011.svg"
+  },
+  {
+    "num": 12,
+    "id": "八",
+    "pinyin": "bā",
+    "gloss": "eight",
+    "strokes": 2,
+    "tags": [
+      "eight"
+    ],
+    "svg_path": "../svg/radicals/012.svg"
+  },
+  {
+    "num": 13,
+    "id": "冂",
+    "pinyin": "jiǒng",
+    "gloss": "down box",
+    "strokes": 2,
+    "tags": [
+      "box",
+      "down"
+    ],
+    "svg_path": "../svg/radicals/013.svg"
+  },
+  {
+    "num": 14,
+    "id": "冖",
+    "pinyin": "mì",
+    "gloss": "cover",
+    "strokes": 2,
+    "tags": [
+      "cover"
+    ],
+    "svg_path": "../svg/radicals/014.svg"
+  },
+  {
+    "num": 15,
+    "id": "冫",
+    "pinyin": "bīng",
+    "gloss": "ice",
+    "strokes": 2,
+    "tags": [
+      "ice"
+    ],
+    "svg_path": "../svg/radicals/015.svg"
+  },
+  {
+    "num": 16,
+    "id": "几",
+    "pinyin": "jī, jǐ",
+    "gloss": "table",
+    "strokes": 2,
+    "tags": [
+      "table"
+    ],
+    "svg_path": "../svg/radicals/016.svg"
+  },
+  {
+    "num": 17,
+    "id": "凵",
+    "pinyin": "qǔ",
+    "gloss": "open box",
+    "strokes": 2,
+    "tags": [
+      "box",
+      "open"
+    ],
+    "svg_path": "../svg/radicals/017.svg"
+  },
+  {
+    "num": 18,
+    "id": "刀",
+    "pinyin": "dāo",
+    "gloss": "knife",
+    "strokes": 2,
+    "tags": [
+      "blade",
+      "cut",
+      "knife",
+      "sharp"
+    ],
+    "svg_path": "../svg/radicals/018.svg"
+  },
+  {
+    "num": 19,
+    "id": "力",
+    "pinyin": "lì",
+    "gloss": "power",
+    "strokes": 2,
+    "tags": [
+      "power"
+    ],
+    "svg_path": "../svg/radicals/019.svg"
+  },
+  {
+    "num": 20,
+    "id": "勹",
+    "pinyin": "bāo",
+    "gloss": "wrap",
+    "strokes": 2,
+    "tags": [
+      "wrap"
+    ],
+    "svg_path": "../svg/radicals/020.svg"
+  },
+  {
+    "num": 21,
+    "id": "匕",
+    "pinyin": "bǐ",
+    "gloss": "ladle",
+    "strokes": 2,
+    "tags": [
+      "ladle"
+    ],
+    "svg_path": "../svg/radicals/021.svg"
+  },
+  {
+    "num": 22,
+    "id": "匚",
+    "pinyin": "fāng",
+    "gloss": "right open box",
+    "strokes": 2,
+    "tags": [
+      "box",
+      "open",
+      "right"
+    ],
+    "svg_path": "../svg/radicals/022.svg"
+  },
+  {
+    "num": 23,
+    "id": "匸",
+    "pinyin": "xǐ",
+    "gloss": "hiding enclosure",
+    "strokes": 2,
+    "tags": [
+      "enclosure",
+      "hiding"
+    ],
+    "svg_path": "../svg/radicals/023.svg"
+  },
+  {
+    "num": 24,
+    "id": "十",
+    "pinyin": "shí",
+    "gloss": "ten",
+    "strokes": 2,
+    "tags": [
+      "ten"
+    ],
+    "svg_path": "../svg/radicals/024.svg"
+  },
+  {
+    "num": 25,
+    "id": "卜",
+    "pinyin": "bǔ",
+    "gloss": "divination",
+    "strokes": 2,
+    "tags": [
+      "divination"
+    ],
+    "svg_path": "../svg/radicals/025.svg"
+  },
+  {
+    "num": 26,
+    "id": "卩",
+    "pinyin": "jié",
+    "gloss": "seal",
+    "strokes": 2,
+    "tags": [
+      "seal"
+    ],
+    "svg_path": "../svg/radicals/026.svg"
+  },
+  {
+    "num": 27,
+    "id": "厂",
+    "pinyin": "hàn",
+    "gloss": "cliff",
+    "strokes": 2,
+    "tags": [
+      "cliff"
+    ],
+    "svg_path": "../svg/radicals/027.svg"
+  },
+  {
+    "num": 28,
+    "id": "厶",
+    "pinyin": "sī",
+    "gloss": "private",
+    "strokes": 2,
+    "tags": [
+      "private"
+    ],
+    "svg_path": "../svg/radicals/028.svg"
+  },
+  {
+    "num": 29,
+    "id": "又",
+    "pinyin": "yòu",
+    "gloss": "again",
+    "strokes": 2,
+    "tags": [
+      "again"
+    ],
+    "svg_path": "../svg/radicals/029.svg"
+  },
+  {
+    "num": 30,
+    "id": "口",
+    "pinyin": "kǒu",
+    "gloss": "mouth",
+    "strokes": 3,
+    "tags": [
+      "mouth",
+      "say",
+      "speak",
+      "speech",
+      "taste",
+      "voice"
+    ],
+    "svg_path": "../svg/radicals/030.svg"
+  },
+  {
+    "num": 31,
+    "id": "囗",
+    "pinyin": "wéi",
+    "gloss": "enclosure",
+    "strokes": 3,
+    "tags": [
+      "enclosure"
+    ],
+    "svg_path": "../svg/radicals/031.svg"
+  },
+  {
+    "num": 32,
+    "id": "土",
+    "pinyin": "tǔ",
+    "gloss": "earth",
+    "strokes": 3,
+    "tags": [
+      "clay",
+      "dirt",
+      "earth",
+      "ground",
+      "soil"
+    ],
+    "svg_path": "../svg/radicals/032.svg"
+  },
+  {
+    "num": 33,
+    "id": "士",
+    "pinyin": "shì",
+    "gloss": "scholar",
+    "strokes": 3,
+    "tags": [
+      "scholar"
+    ],
+    "svg_path": "../svg/radicals/033.svg"
+  },
+  {
+    "num": 34,
+    "id": "夂",
+    "pinyin": "zhī",
+    "gloss": "go",
+    "strokes": 3,
+    "tags": [
+      "go"
+    ],
+    "svg_path": "../svg/radicals/034.svg"
+  },
+  {
+    "num": 35,
+    "id": "夊",
+    "pinyin": "suī",
+    "gloss": "go slowly",
+    "strokes": 3,
+    "tags": [
+      "go",
+      "slowly"
+    ],
+    "svg_path": "../svg/radicals/035.svg"
+  },
+  {
+    "num": 36,
+    "id": "夕",
+    "pinyin": "xī",
+    "gloss": "night",
+    "strokes": 3,
+    "tags": [
+      "night"
+    ],
+    "svg_path": "../svg/radicals/036.svg"
+  },
+  {
+    "num": 37,
+    "id": "大",
+    "pinyin": "dà",
+    "gloss": "big",
+    "strokes": 3,
+    "tags": [
+      "big"
+    ],
+    "svg_path": "../svg/radicals/037.svg"
+  },
+  {
+    "num": 38,
+    "id": "女",
+    "pinyin": "nǚ",
+    "gloss": "woman",
+    "strokes": 3,
+    "tags": [
+      "woman"
+    ],
+    "svg_path": "../svg/radicals/038.svg"
+  },
+  {
+    "num": 39,
+    "id": "子",
+    "pinyin": "zǐ",
+    "gloss": "child",
+    "strokes": 3,
+    "tags": [
+      "child"
+    ],
+    "svg_path": "../svg/radicals/039.svg"
+  },
+  {
+    "num": 40,
+    "id": "宀",
+    "pinyin": "gài",
+    "gloss": "roof",
+    "strokes": 3,
+    "tags": [
+      "roof"
+    ],
+    "svg_path": "../svg/radicals/040.svg"
+  },
+  {
+    "num": 41,
+    "id": "寸",
+    "pinyin": "cùn",
+    "gloss": "inch",
+    "strokes": 3,
+    "tags": [
+      "inch"
+    ],
+    "svg_path": "../svg/radicals/041.svg"
+  },
+  {
+    "num": 42,
+    "id": "小",
+    "pinyin": "xiǎo",
+    "gloss": "small",
+    "strokes": 3,
+    "tags": [
+      "small"
+    ],
+    "svg_path": "../svg/radicals/042.svg"
+  },
+  {
+    "num": 43,
+    "id": "尢",
+    "pinyin": "yóu",
+    "gloss": "lame",
+    "strokes": 3,
+    "tags": [
+      "lame"
+    ],
+    "svg_path": "../svg/radicals/043.svg"
+  },
+  {
+    "num": 44,
+    "id": "尸",
+    "pinyin": "shī",
+    "gloss": "corpse",
+    "strokes": 3,
+    "tags": [
+      "corpse"
+    ],
+    "svg_path": "../svg/radicals/044.svg"
+  },
+  {
+    "num": 45,
+    "id": "屮",
+    "pinyin": "chè",
+    "gloss": "sprout",
+    "strokes": 3,
+    "tags": [
+      "sprout"
+    ],
+    "svg_path": "../svg/radicals/045.svg"
+  },
+  {
+    "num": 46,
+    "id": "山",
+    "pinyin": "shān",
+    "gloss": "mountain",
+    "strokes": 3,
+    "tags": [
+      "mountain"
+    ],
+    "svg_path": "../svg/radicals/046.svg"
+  },
+  {
+    "num": 47,
+    "id": "川",
+    "pinyin": "chuān",
+    "gloss": "river",
+    "strokes": 3,
+    "tags": [
+      "river"
+    ],
+    "svg_path": "../svg/radicals/047.svg"
+  },
+  {
+    "num": 48,
+    "id": "工",
+    "pinyin": "gōng",
+    "gloss": "work",
+    "strokes": 3,
+    "tags": [
+      "work"
+    ],
+    "svg_path": "../svg/radicals/048.svg"
+  },
+  {
+    "num": 49,
+    "id": "己",
+    "pinyin": "jǐ",
+    "gloss": "oneself",
+    "strokes": 3,
+    "tags": [
+      "oneself"
+    ],
+    "svg_path": "../svg/radicals/049.svg"
+  },
+  {
+    "num": 50,
+    "id": "巾",
+    "pinyin": "jīn",
+    "gloss": "towel",
+    "strokes": 3,
+    "tags": [
+      "towel"
+    ],
+    "svg_path": "../svg/radicals/050.svg"
+  },
+  {
+    "num": 51,
+    "id": "干",
+    "pinyin": "gān",
+    "gloss": "dry",
+    "strokes": 3,
+    "tags": [
+      "dry"
+    ],
+    "svg_path": "../svg/radicals/051.svg"
+  },
+  {
+    "num": 52,
+    "id": "幺",
+    "pinyin": "yāo",
+    "gloss": "thread",
+    "strokes": 3,
+    "tags": [
+      "thread"
+    ],
+    "svg_path": "../svg/radicals/052.svg"
+  },
+  {
+    "num": 53,
+    "id": "广",
+    "pinyin": "guǎng",
+    "gloss": "shelter",
+    "strokes": 3,
+    "tags": [
+      "shelter"
+    ],
+    "svg_path": "../svg/radicals/053.svg"
+  },
+  {
+    "num": 54,
+    "id": "廴",
+    "pinyin": "yǐn",
+    "gloss": "stride",
+    "strokes": 3,
+    "tags": [
+      "stride"
+    ],
+    "svg_path": "../svg/radicals/054.svg"
+  },
+  {
+    "num": 55,
+    "id": "廾",
+    "pinyin": "gǒng",
+    "gloss": "hands joined",
+    "strokes": 3,
+    "tags": [
+      "hands",
+      "joined"
+    ],
+    "svg_path": "../svg/radicals/055.svg"
+  },
+  {
+    "num": 56,
+    "id": "弋",
+    "pinyin": "yì",
+    "gloss": "shoot with a bow",
+    "strokes": 3,
+    "tags": [
+      "a",
+      "bow",
+      "shoot",
+      "with"
+    ],
+    "svg_path": "../svg/radicals/056.svg"
+  },
+  {
+    "num": 57,
+    "id": "弓",
+    "pinyin": "gōng",
+    "gloss": "bow",
+    "strokes": 3,
+    "tags": [
+      "bow"
+    ],
+    "svg_path": "../svg/radicals/057.svg"
+  },
+  {
+    "num": 58,
+    "id": "彐",
+    "pinyin": "jì",
+    "gloss": "snout",
+    "strokes": 3,
+    "tags": [
+      "snout"
+    ],
+    "svg_path": "../svg/radicals/058.svg"
+  },
+  {
+    "num": 59,
+    "id": "彡",
+    "pinyin": "shān",
+    "gloss": "hair",
+    "strokes": 3,
+    "tags": [
+      "hair"
+    ],
+    "svg_path": "../svg/radicals/059.svg"
+  },
+  {
+    "num": 60,
+    "id": "彳",
+    "pinyin": "chì",
+    "gloss": "step",
+    "strokes": 3,
+    "tags": [
+      "step"
+    ],
+    "svg_path": "../svg/radicals/060.svg"
+  },
+  {
+    "num": 61,
+    "id": "心",
+    "pinyin": "xīn",
+    "gloss": "heart",
+    "strokes": 4,
+    "tags": [
+      "emotion",
+      "feeling",
+      "heart",
+      "love",
+      "mind",
+      "thought"
+    ],
+    "svg_path": "../svg/radicals/061.svg"
+  },
+  {
+    "num": 62,
+    "id": "戈",
+    "pinyin": "gē",
+    "gloss": "spear",
+    "strokes": 4,
+    "tags": [
+      "spear"
+    ],
+    "svg_path": "../svg/radicals/062.svg"
+  },
+  {
+    "num": 63,
+    "id": "户",
+    "pinyin": "hù",
+    "gloss": "door",
+    "strokes": 4,
+    "tags": [
+      "door",
+      "enter",
+      "gate",
+      "house"
+    ],
+    "svg_path": "../svg/radicals/063.svg"
+  },
+  {
+    "num": 64,
+    "id": "手",
+    "pinyin": "shǒu",
+    "gloss": "hand",
+    "strokes": 4,
+    "tags": [
+      "grasp",
+      "hand",
+      "handy",
+      "hold",
+      "manual",
+      "touch"
+    ],
+    "svg_path": "../svg/radicals/064.svg"
+  },
+  {
+    "num": 65,
+    "id": "支",
+    "pinyin": "zhī",
+    "gloss": "branch",
+    "strokes": 4,
+    "tags": [
+      "branch"
+    ],
+    "svg_path": "../svg/radicals/065.svg"
+  },
+  {
+    "num": 66,
+    "id": "攴",
+    "pinyin": "pū",
+    "gloss": "rap",
+    "strokes": 4,
+    "tags": [
+      "rap"
+    ],
+    "svg_path": "../svg/radicals/066.svg"
+  },
+  {
+    "num": 67,
+    "id": "文",
+    "pinyin": "wén",
+    "gloss": "script",
+    "strokes": 4,
+    "tags": [
+      "script"
+    ],
+    "svg_path": "../svg/radicals/067.svg"
+  },
+  {
+    "num": 68,
+    "id": "斗",
+    "pinyin": "dǒu",
+    "gloss": "dipper",
+    "strokes": 4,
+    "tags": [
+      "dipper"
+    ],
+    "svg_path": "../svg/radicals/068.svg"
+  },
+  {
+    "num": 69,
+    "id": "斤",
+    "pinyin": "jīn",
+    "gloss": "axe",
+    "strokes": 4,
+    "tags": [
+      "axe"
+    ],
+    "svg_path": "../svg/radicals/069.svg"
+  },
+  {
+    "num": 70,
+    "id": "方",
+    "pinyin": "fāng",
+    "gloss": "square",
+    "strokes": 4,
+    "tags": [
+      "square"
+    ],
+    "svg_path": "../svg/radicals/070.svg"
+  },
+  {
+    "num": 71,
+    "id": "无",
+    "pinyin": "wú",
+    "gloss": "not",
+    "strokes": 4,
+    "tags": [
+      "not"
+    ],
+    "svg_path": "../svg/radicals/071.svg"
+  },
+  {
+    "num": 72,
+    "id": "日",
+    "pinyin": "rì",
+    "gloss": "sun",
+    "strokes": 4,
+    "tags": [
+      "bright",
+      "day",
+      "light",
+      "sun"
+    ],
+    "svg_path": "../svg/radicals/072.svg"
+  },
+  {
+    "num": 73,
+    "id": "曰",
+    "pinyin": "yuē",
+    "gloss": "say",
+    "strokes": 4,
+    "tags": [
+      "say"
+    ],
+    "svg_path": "../svg/radicals/073.svg"
+  },
+  {
+    "num": 74,
+    "id": "月",
+    "pinyin": "yuè",
+    "gloss": "moon",
+    "strokes": 4,
+    "tags": [
+      "month",
+      "moon",
+      "night",
+      "time"
+    ],
+    "svg_path": "../svg/radicals/074.svg"
+  },
+  {
+    "num": 75,
+    "id": "木",
+    "pinyin": "mù",
+    "gloss": "tree",
+    "strokes": 4,
+    "tags": [
+      "tree"
+    ],
+    "svg_path": "../svg/radicals/075.svg"
+  },
+  {
+    "num": 76,
+    "id": "欠",
+    "pinyin": "qiàn",
+    "gloss": "lack",
+    "strokes": 4,
+    "tags": [
+      "lack"
+    ],
+    "svg_path": "../svg/radicals/076.svg"
+  },
+  {
+    "num": 77,
+    "id": "止",
+    "pinyin": "zhǐ",
+    "gloss": "stop",
+    "strokes": 4,
+    "tags": [
+      "stop"
+    ],
+    "svg_path": "../svg/radicals/077.svg"
+  },
+  {
+    "num": 78,
+    "id": "歹",
+    "pinyin": "dǎi",
+    "gloss": "death",
+    "strokes": 4,
+    "tags": [
+      "death"
+    ],
+    "svg_path": "../svg/radicals/078.svg"
+  },
+  {
+    "num": 79,
+    "id": "殳",
+    "pinyin": "shū",
+    "gloss": "weapon",
+    "strokes": 4,
+    "tags": [
+      "weapon"
+    ],
+    "svg_path": "../svg/radicals/079.svg"
+  },
+  {
+    "num": 80,
+    "id": "母",
+    "pinyin": "mǔ",
+    "gloss": "mother",
+    "strokes": 4,
+    "tags": [
+      "mother"
+    ],
+    "svg_path": "../svg/radicals/080.svg"
+  },
+  {
+    "num": 81,
+    "id": "比",
+    "pinyin": "bǐ",
+    "gloss": "compare",
+    "strokes": 4,
+    "tags": [
+      "compare"
+    ],
+    "svg_path": "../svg/radicals/081.svg"
+  },
+  {
+    "num": 82,
+    "id": "毛",
+    "pinyin": "máo",
+    "gloss": "fur",
+    "strokes": 4,
+    "tags": [
+      "fur"
+    ],
+    "svg_path": "../svg/radicals/082.svg"
+  },
+  {
+    "num": 83,
+    "id": "氏",
+    "pinyin": "shì",
+    "gloss": "clan",
+    "strokes": 4,
+    "tags": [
+      "clan"
+    ],
+    "svg_path": "../svg/radicals/083.svg"
+  },
+  {
+    "num": 84,
+    "id": "气",
+    "pinyin": "qì",
+    "gloss": "steam",
+    "strokes": 4,
+    "tags": [
+      "steam"
+    ],
+    "svg_path": "../svg/radicals/084.svg"
+  },
+  {
+    "num": 85,
+    "id": "水",
+    "pinyin": "shuǐ",
+    "gloss": "water",
+    "strokes": 4,
+    "tags": [
+      "flow",
+      "liquid",
+      "ocean",
+      "river",
+      "sea",
+      "water",
+      "wave",
+      "wet"
+    ],
+    "svg_path": "../svg/radicals/085.svg"
+  },
+  {
+    "num": 86,
+    "id": "火",
+    "pinyin": "huǒ",
+    "gloss": "fire",
+    "strokes": 4,
+    "tags": [
+      "burn",
+      "ember",
+      "fire",
+      "flame",
+      "heat",
+      "hot"
+    ],
+    "svg_path": "../svg/radicals/086.svg"
+  },
+  {
+    "num": 87,
+    "id": "爪",
+    "pinyin": "zhǎo",
+    "gloss": "claw",
+    "strokes": 4,
+    "tags": [
+      "claw"
+    ],
+    "svg_path": "../svg/radicals/087.svg"
+  },
+  {
+    "num": 88,
+    "id": "父",
+    "pinyin": "fù",
+    "gloss": "father",
+    "strokes": 4,
+    "tags": [
+      "father"
+    ],
+    "svg_path": "../svg/radicals/088.svg"
+  },
+  {
+    "num": 89,
+    "id": "爻",
+    "pinyin": "yáo",
+    "gloss": "lines on a trigram",
+    "strokes": 4,
+    "tags": [
+      "a",
+      "lines",
+      "on",
+      "trigram"
+    ],
+    "svg_path": "../svg/radicals/089.svg"
+  },
+  {
+    "num": 90,
+    "id": "爿",
+    "pinyin": "qiáng",
+    "gloss": "half of a tree trunk",
+    "strokes": 4,
+    "tags": [
+      "a",
+      "half",
+      "of",
+      "tree",
+      "trunk"
+    ],
+    "svg_path": "../svg/radicals/090.svg"
+  },
+  {
+    "num": 91,
+    "id": "片",
+    "pinyin": "piàn",
+    "gloss": "slice",
+    "strokes": 4,
+    "tags": [
+      "slice"
+    ],
+    "svg_path": "../svg/radicals/091.svg"
+  },
+  {
+    "num": 92,
+    "id": "牙",
+    "pinyin": "yá",
+    "gloss": "tooth",
+    "strokes": 4,
+    "tags": [
+      "tooth"
+    ],
+    "svg_path": "../svg/radicals/092.svg"
+  },
+  {
+    "num": 93,
+    "id": "牛",
+    "pinyin": "niú",
+    "gloss": "cow",
+    "strokes": 4,
+    "tags": [
+      "cow"
+    ],
+    "svg_path": "../svg/radicals/093.svg"
+  },
+  {
+    "num": 94,
+    "id": "犭",
+    "pinyin": "quǎn",
+    "gloss": "dog",
+    "strokes": 3,
+    "tags": [
+      "animal",
+      "beast",
+      "dog"
+    ],
+    "svg_path": "../svg/radicals/094.svg"
+  },
+  {
+    "num": 95,
+    "id": "玄",
+    "pinyin": "xuán",
+    "gloss": "profound",
+    "strokes": 5,
+    "tags": [
+      "profound"
+    ],
+    "svg_path": "../svg/radicals/095.svg"
+  },
+  {
+    "num": 96,
+    "id": "玉",
+    "pinyin": "yù",
+    "gloss": "jade",
+    "strokes": 5,
+    "tags": [
+      "jade"
+    ],
+    "svg_path": "../svg/radicals/096.svg"
+  },
+  {
+    "num": 97,
+    "id": "瓜",
+    "pinyin": "guā",
+    "gloss": "melon",
+    "strokes": 5,
+    "tags": [
+      "melon"
+    ],
+    "svg_path": "../svg/radicals/097.svg"
+  },
+  {
+    "num": 98,
+    "id": "瓦",
+    "pinyin": "wǎ",
+    "gloss": "tile",
+    "strokes": 5,
+    "tags": [
+      "tile"
+    ],
+    "svg_path": "../svg/radicals/098.svg"
+  },
+  {
+    "num": 99,
+    "id": "甘",
+    "pinyin": "gān",
+    "gloss": "sweet",
+    "strokes": 5,
+    "tags": [
+      "sweet"
+    ],
+    "svg_path": "../svg/radicals/099.svg"
+  },
+  {
+    "num": 100,
+    "id": "生",
+    "pinyin": "shēng",
+    "gloss": "life",
+    "strokes": 5,
+    "tags": [
+      "life"
+    ],
+    "svg_path": "../svg/radicals/100.svg"
+  },
+  {
+    "num": 101,
+    "id": "用",
+    "pinyin": "yòng",
+    "gloss": "use",
+    "strokes": 5,
+    "tags": [
+      "use"
+    ],
+    "svg_path": "../svg/radicals/101.svg"
+  },
+  {
+    "num": 102,
+    "id": "田",
+    "pinyin": "tián",
+    "gloss": "field",
+    "strokes": 5,
+    "tags": [
+      "field"
+    ],
+    "svg_path": "../svg/radicals/102.svg"
+  },
+  {
+    "num": 103,
+    "id": "疋",
+    "pinyin": "pǐ",
+    "gloss": "cloth",
+    "strokes": 5,
+    "tags": [
+      "cloth"
+    ],
+    "svg_path": "../svg/radicals/103.svg"
+  },
+  {
+    "num": 104,
+    "id": "疒",
+    "pinyin": "bìng",
+    "gloss": "ill",
+    "strokes": 5,
+    "tags": [
+      "ill"
+    ],
+    "svg_path": "../svg/radicals/104.svg"
+  },
+  {
+    "num": 105,
+    "id": "癶",
+    "pinyin": "bō",
+    "gloss": "foot steps",
+    "strokes": 5,
+    "tags": [
+      "foot",
+      "kick",
+      "leg",
+      "step",
+      "steps",
+      "walk"
+    ],
+    "svg_path": "../svg/radicals/105.svg"
+  },
+  {
+    "num": 106,
+    "id": "白",
+    "pinyin": "bái",
+    "gloss": "white",
+    "strokes": 5,
+    "tags": [
+      "white"
+    ],
+    "svg_path": "../svg/radicals/106.svg"
+  },
+  {
+    "num": 107,
+    "id": "皮",
+    "pinyin": "pí",
+    "gloss": "skin",
+    "strokes": 5,
+    "tags": [
+      "skin"
+    ],
+    "svg_path": "../svg/radicals/107.svg"
+  },
+  {
+    "num": 108,
+    "id": "皿",
+    "pinyin": "mǐn",
+    "gloss": "dish",
+    "strokes": 5,
+    "tags": [
+      "dish"
+    ],
+    "svg_path": "../svg/radicals/108.svg"
+  },
+  {
+    "num": 109,
+    "id": "目",
+    "pinyin": "mù",
+    "gloss": "eye",
+    "strokes": 5,
+    "tags": [
+      "eye"
+    ],
+    "svg_path": "../svg/radicals/109.svg"
+  },
+  {
+    "num": 110,
+    "id": "矛",
+    "pinyin": "máo",
+    "gloss": "spear",
+    "strokes": 5,
+    "tags": [
+      "spear"
+    ],
+    "svg_path": "../svg/radicals/110.svg"
+  },
+  {
+    "num": 111,
+    "id": "矢",
+    "pinyin": "shǐ",
+    "gloss": "arrow",
+    "strokes": 5,
+    "tags": [
+      "arrow"
+    ],
+    "svg_path": "../svg/radicals/111.svg"
+  },
+  {
+    "num": 112,
+    "id": "石",
+    "pinyin": "shí",
+    "gloss": "stone",
+    "strokes": 5,
+    "tags": [
+      "mountain",
+      "pebble",
+      "rock",
+      "stone"
+    ],
+    "svg_path": "../svg/radicals/112.svg"
+  },
+  {
+    "num": 113,
+    "id": "示",
+    "pinyin": "shì",
+    "gloss": "spirit",
+    "strokes": 5,
+    "tags": [
+      "spirit"
+    ],
+    "svg_path": "../svg/radicals/113.svg"
+  },
+  {
+    "num": 114,
+    "id": "禸",
+    "pinyin": "róu",
+    "gloss": "track",
+    "strokes": 4,
+    "tags": [
+      "track"
+    ],
+    "svg_path": "../svg/radicals/114.svg"
+  },
+  {
+    "num": 115,
+    "id": "禾",
+    "pinyin": "hé",
+    "gloss": "grain",
+    "strokes": 5,
+    "tags": [
+      "grain"
+    ],
+    "svg_path": "../svg/radicals/115.svg"
+  },
+  {
+    "num": 116,
+    "id": "穴",
+    "pinyin": "xuè",
+    "gloss": "cave",
+    "strokes": 5,
+    "tags": [
+      "cave"
+    ],
+    "svg_path": "../svg/radicals/116.svg"
+  },
+  {
+    "num": 117,
+    "id": "立",
+    "pinyin": "lì",
+    "gloss": "stand",
+    "strokes": 5,
+    "tags": [
+      "stand"
+    ],
+    "svg_path": "../svg/radicals/117.svg"
+  },
+  {
+    "num": 118,
+    "id": "竹",
+    "pinyin": "zhú",
+    "gloss": "bamboo",
+    "strokes": 6,
+    "tags": [
+      "bamboo"
+    ],
+    "svg_path": "../svg/radicals/118.svg"
+  },
+  {
+    "num": 119,
+    "id": "米",
+    "pinyin": "mǐ",
+    "gloss": "rice",
+    "strokes": 6,
+    "tags": [
+      "rice"
+    ],
+    "svg_path": "../svg/radicals/119.svg"
+  },
+  {
+    "num": 120,
+    "id": "纟",
+    "pinyin": "sī",
+    "gloss": "silk",
+    "strokes": 3,
+    "tags": [
+      "cloth",
+      "silk",
+      "string",
+      "textile",
+      "thread"
+    ],
+    "svg_path": "../svg/radicals/120.svg"
+  },
+  {
+    "num": 121,
+    "id": "缶",
+    "pinyin": "fǒu",
+    "gloss": "jar",
+    "strokes": 6,
+    "tags": [
+      "jar"
+    ],
+    "svg_path": "../svg/radicals/121.svg"
+  },
+  {
+    "num": 122,
+    "id": "网",
+    "pinyin": "wǎng",
+    "gloss": "net",
+    "strokes": 6,
+    "tags": [
+      "net"
+    ],
+    "svg_path": "../svg/radicals/122.svg"
+  },
+  {
+    "num": 123,
+    "id": "羊",
+    "pinyin": "yáng",
+    "gloss": "sheep",
+    "strokes": 6,
+    "tags": [
+      "sheep"
+    ],
+    "svg_path": "../svg/radicals/123.svg"
+  },
+  {
+    "num": 124,
+    "id": "羽",
+    "pinyin": "yǔ",
+    "gloss": "feather",
+    "strokes": 6,
+    "tags": [
+      "feather"
+    ],
+    "svg_path": "../svg/radicals/124.svg"
+  },
+  {
+    "num": 125,
+    "id": "老",
+    "pinyin": "lǎo",
+    "gloss": "old",
+    "strokes": 6,
+    "tags": [
+      "old"
+    ],
+    "svg_path": "../svg/radicals/125.svg"
+  },
+  {
+    "num": 126,
+    "id": "而",
+    "pinyin": "ér",
+    "gloss": "and",
+    "strokes": 6,
+    "tags": [
+      "and"
+    ],
+    "svg_path": "../svg/radicals/126.svg"
+  },
+  {
+    "num": 127,
+    "id": "耒",
+    "pinyin": "lěi",
+    "gloss": "plow",
+    "strokes": 6,
+    "tags": [
+      "plow"
+    ],
+    "svg_path": "../svg/radicals/127.svg"
+  },
+  {
+    "num": 128,
+    "id": "耳",
+    "pinyin": "ěr",
+    "gloss": "ear",
+    "strokes": 6,
+    "tags": [
+      "ear"
+    ],
+    "svg_path": "../svg/radicals/128.svg"
+  },
+  {
+    "num": 129,
+    "id": "聿",
+    "pinyin": "yù",
+    "gloss": "brush",
+    "strokes": 6,
+    "tags": [
+      "brush"
+    ],
+    "svg_path": "../svg/radicals/129.svg"
+  },
+  {
+    "num": 130,
+    "id": "肉",
+    "pinyin": "ròu",
+    "gloss": "meat",
+    "strokes": 6,
+    "tags": [
+      "meat"
+    ],
+    "svg_path": "../svg/radicals/130.svg"
+  },
+  {
+    "num": 131,
+    "id": "臣",
+    "pinyin": "chén",
+    "gloss": "minister",
+    "strokes": 6,
+    "tags": [
+      "minister"
+    ],
+    "svg_path": "../svg/radicals/131.svg"
+  },
+  {
+    "num": 132,
+    "id": "自",
+    "pinyin": "zì",
+    "gloss": "oneself",
+    "strokes": 6,
+    "tags": [
+      "oneself"
+    ],
+    "svg_path": "../svg/radicals/132.svg"
+  },
+  {
+    "num": 133,
+    "id": "至",
+    "pinyin": "zhì",
+    "gloss": "arrive",
+    "strokes": 6,
+    "tags": [
+      "arrive"
+    ],
+    "svg_path": "../svg/radicals/133.svg"
+  },
+  {
+    "num": 134,
+    "id": "臼",
+    "pinyin": "jiù",
+    "gloss": "mortar",
+    "strokes": 6,
+    "tags": [
+      "mortar"
+    ],
+    "svg_path": "../svg/radicals/134.svg"
+  },
+  {
+    "num": 135,
+    "id": "舌",
+    "pinyin": "shé",
+    "gloss": "tongue",
+    "strokes": 6,
+    "tags": [
+      "tongue"
+    ],
+    "svg_path": "../svg/radicals/135.svg"
+  },
+  {
+    "num": 136,
+    "id": "舛",
+    "pinyin": "chuǎn",
+    "gloss": "contrary",
+    "strokes": 6,
+    "tags": [
+      "contrary"
+    ],
+    "svg_path": "../svg/radicals/136.svg"
+  },
+  {
+    "num": 137,
+    "id": "舟",
+    "pinyin": "zhōu",
+    "gloss": "boat",
+    "strokes": 6,
+    "tags": [
+      "boat"
+    ],
+    "svg_path": "../svg/radicals/137.svg"
+  },
+  {
+    "num": 138,
+    "id": "艮",
+    "pinyin": "gèn",
+    "gloss": "mountain",
+    "strokes": 6,
+    "tags": [
+      "mountain"
+    ],
+    "svg_path": "../svg/radicals/138.svg"
+  },
+  {
+    "num": 139,
+    "id": "色",
+    "pinyin": "sè",
+    "gloss": "color",
+    "strokes": 6,
+    "tags": [
+      "color"
+    ],
+    "svg_path": "../svg/radicals/139.svg"
+  },
+  {
+    "num": 140,
+    "id": "艹",
+    "pinyin": "cǎo",
+    "gloss": "grass",
+    "strokes": 3,
+    "tags": [
+      "grass"
+    ],
+    "svg_path": "../svg/radicals/140.svg"
+  },
+  {
+    "num": 141,
+    "id": "虍",
+    "pinyin": "hǔ",
+    "gloss": "tiger",
+    "strokes": 6,
+    "tags": [
+      "tiger"
+    ],
+    "svg_path": "../svg/radicals/141.svg"
+  },
+  {
+    "num": 142,
+    "id": "虫",
+    "pinyin": "chóng",
+    "gloss": "insect",
+    "strokes": 6,
+    "tags": [
+      "insect"
+    ],
+    "svg_path": "../svg/radicals/142.svg"
+  },
+  {
+    "num": 143,
+    "id": "血",
+    "pinyin": "xuě",
+    "gloss": "blood",
+    "strokes": 6,
+    "tags": [
+      "blood"
+    ],
+    "svg_path": "../svg/radicals/143.svg"
+  },
+  {
+    "num": 144,
+    "id": "行",
+    "pinyin": "xíng",
+    "gloss": "walk",
+    "strokes": 6,
+    "tags": [
+      "walk"
+    ],
+    "svg_path": "../svg/radicals/144.svg"
+  },
+  {
+    "num": 145,
+    "id": "衣",
+    "pinyin": "yī",
+    "gloss": "clothes",
+    "strokes": 6,
+    "tags": [
+      "clothes"
+    ],
+    "svg_path": "../svg/radicals/145.svg"
+  },
+  {
+    "num": 146,
+    "id": "西",
+    "pinyin": "xī",
+    "gloss": "west",
+    "strokes": 6,
+    "tags": [
+      "west"
+    ],
+    "svg_path": "../svg/radicals/146.svg"
+  },
+  {
+    "num": 147,
+    "id": "见",
+    "pinyin": "jiàn",
+    "gloss": "see",
+    "strokes": 4,
+    "tags": [
+      "see"
+    ],
+    "svg_path": "../svg/radicals/147.svg"
+  },
+  {
+    "num": 148,
+    "id": "角",
+    "pinyin": "jiǎo",
+    "gloss": "horn",
+    "strokes": 7,
+    "tags": [
+      "horn"
+    ],
+    "svg_path": "../svg/radicals/148.svg"
+  },
+  {
+    "num": 149,
+    "id": "讠",
+    "pinyin": "yán",
+    "gloss": "speech",
+    "strokes": 2,
+    "tags": [
+      "speech"
+    ],
+    "svg_path": "../svg/radicals/149.svg"
+  },
+  {
+    "num": 150,
+    "id": "谷",
+    "pinyin": "gǔ",
+    "gloss": "valley",
+    "strokes": 7,
+    "tags": [
+      "valley"
+    ],
+    "svg_path": "../svg/radicals/150.svg"
+  },
+  {
+    "num": 151,
+    "id": "豆",
+    "pinyin": "dòu",
+    "gloss": "bean",
+    "strokes": 7,
+    "tags": [
+      "bean"
+    ],
+    "svg_path": "../svg/radicals/151.svg"
+  },
+  {
+    "num": 152,
+    "id": "豕",
+    "pinyin": "shǐ",
+    "gloss": "pig",
+    "strokes": 7,
+    "tags": [
+      "pig"
+    ],
+    "svg_path": "../svg/radicals/152.svg"
+  },
+  {
+    "num": 153,
+    "id": "豸",
+    "pinyin": "zhì",
+    "gloss": "badger",
+    "strokes": 7,
+    "tags": [
+      "badger"
+    ],
+    "svg_path": "../svg/radicals/153.svg"
+  },
+  {
+    "num": 154,
+    "id": "贝",
+    "pinyin": "bèi",
+    "gloss": "shell",
+    "strokes": 4,
+    "tags": [
+      "shell"
+    ],
+    "svg_path": "../svg/radicals/154.svg"
+  },
+  {
+    "num": 155,
+    "id": "赤",
+    "pinyin": "chì",
+    "gloss": "red",
+    "strokes": 7,
+    "tags": [
+      "red"
+    ],
+    "svg_path": "../svg/radicals/155.svg"
+  },
+  {
+    "num": 156,
+    "id": "走",
+    "pinyin": "zǒu",
+    "gloss": "walk",
+    "strokes": 7,
+    "tags": [
+      "walk"
+    ],
+    "svg_path": "../svg/radicals/156.svg"
+  },
+  {
+    "num": 157,
+    "id": "足",
+    "pinyin": "zú",
+    "gloss": "foot",
+    "strokes": 7,
+    "tags": [
+      "foot",
+      "kick",
+      "leg",
+      "step",
+      "walk"
+    ],
+    "svg_path": "../svg/radicals/157.svg"
+  },
+  {
+    "num": 158,
+    "id": "身",
+    "pinyin": "shēn",
+    "gloss": "body",
+    "strokes": 7,
+    "tags": [
+      "body"
+    ],
+    "svg_path": "../svg/radicals/158.svg"
+  },
+  {
+    "num": 159,
+    "id": "车",
+    "pinyin": "chē",
+    "gloss": "cart",
+    "strokes": 4,
+    "tags": [
+      "cart"
+    ],
+    "svg_path": "../svg/radicals/159.svg"
+  },
+  {
+    "num": 160,
+    "id": "辛",
+    "pinyin": "xīn",
+    "gloss": "bitter",
+    "strokes": 7,
+    "tags": [
+      "bitter"
+    ],
+    "svg_path": "../svg/radicals/160.svg"
+  },
+  {
+    "num": 161,
+    "id": "辰",
+    "pinyin": "chén",
+    "gloss": "morning",
+    "strokes": 7,
+    "tags": [
+      "morning"
+    ],
+    "svg_path": "../svg/radicals/161.svg"
+  },
+  {
+    "num": 162,
+    "id": "辶",
+    "pinyin": "chuò",
+    "gloss": "walk",
+    "strokes": 3,
+    "tags": [
+      "walk"
+    ],
+    "svg_path": "../svg/radicals/162.svg"
+  },
+  {
+    "num": 163,
+    "id": "邑",
+    "pinyin": "yì",
+    "gloss": "city",
+    "strokes": 7,
+    "tags": [
+      "city"
+    ],
+    "svg_path": "../svg/radicals/163.svg"
+  },
+  {
+    "num": 164,
+    "id": "酉",
+    "pinyin": "yǒu",
+    "gloss": "wine",
+    "strokes": 7,
+    "tags": [
+      "wine"
+    ],
+    "svg_path": "../svg/radicals/164.svg"
+  },
+  {
+    "num": 165,
+    "id": "釆",
+    "pinyin": "biàn",
+    "gloss": "distinguish",
+    "strokes": 7,
+    "tags": [
+      "distinguish"
+    ],
+    "svg_path": "../svg/radicals/165.svg"
+  },
+  {
+    "num": 166,
+    "id": "里",
+    "pinyin": "lǐ",
+    "gloss": "village",
+    "strokes": 7,
+    "tags": [
+      "village"
+    ],
+    "svg_path": "../svg/radicals/166.svg"
+  },
+  {
+    "num": 167,
+    "id": "钅",
+    "pinyin": "jīn",
+    "gloss": "metal",
+    "strokes": 5,
+    "tags": [
+      "gold",
+      "iron",
+      "metal",
+      "metalwork",
+      "money"
+    ],
+    "svg_path": "../svg/radicals/167.svg"
+  },
+  {
+    "num": 168,
+    "id": "长",
+    "pinyin": "cháng",
+    "gloss": "long",
+    "strokes": 4,
+    "tags": [
+      "long"
+    ],
+    "svg_path": "../svg/radicals/168.svg"
+  },
+  {
+    "num": 169,
+    "id": "门",
+    "pinyin": "mén",
+    "gloss": "gate",
+    "strokes": 3,
+    "tags": [
+      "gate"
+    ],
+    "svg_path": "../svg/radicals/169.svg"
+  },
+  {
+    "num": 170,
+    "id": "阜",
+    "pinyin": "fù",
+    "gloss": "mound",
+    "strokes": 8,
+    "tags": [
+      "mound"
+    ],
+    "svg_path": "../svg/radicals/170.svg"
+  },
+  {
+    "num": 171,
+    "id": "隶",
+    "pinyin": "lì",
+    "gloss": "slave",
+    "strokes": 8,
+    "tags": [
+      "slave"
+    ],
+    "svg_path": "../svg/radicals/171.svg"
+  },
+  {
+    "num": 172,
+    "id": "隹",
+    "pinyin": "zhuī",
+    "gloss": "short-tailed bird",
+    "strokes": 8,
+    "tags": [
+      "bird",
+      "feather",
+      "fly",
+      "short",
+      "tailed",
+      "wing"
+    ],
+    "svg_path": "../svg/radicals/172.svg"
+  },
+  {
+    "num": 173,
+    "id": "雨",
+    "pinyin": "yǔ",
+    "gloss": "rain",
+    "strokes": 8,
+    "tags": [
+      "cloud",
+      "drop",
+      "rain",
+      "storm",
+      "weather",
+      "wet"
+    ],
+    "svg_path": "../svg/radicals/173.svg"
+  },
+  {
+    "num": 174,
+    "id": "青",
+    "pinyin": "qīng",
+    "gloss": "blue",
+    "strokes": 8,
+    "tags": [
+      "blue"
+    ],
+    "svg_path": "../svg/radicals/174.svg"
+  },
+  {
+    "num": 175,
+    "id": "非",
+    "pinyin": "fēi",
+    "gloss": "wrong",
+    "strokes": 8,
+    "tags": [
+      "wrong"
+    ],
+    "svg_path": "../svg/radicals/175.svg"
+  },
+  {
+    "num": 176,
+    "id": "面",
+    "pinyin": "miàn",
+    "gloss": "face",
+    "strokes": 9,
+    "tags": [
+      "face"
+    ],
+    "svg_path": "../svg/radicals/176.svg"
+  },
+  {
+    "num": 177,
+    "id": "革",
+    "pinyin": "gé",
+    "gloss": "leather",
+    "strokes": 9,
+    "tags": [
+      "leather"
+    ],
+    "svg_path": "../svg/radicals/177.svg"
+  },
+  {
+    "num": 178,
+    "id": "韦",
+    "pinyin": "wěi",
+    "gloss": "soft leather",
+    "strokes": 4,
+    "tags": [
+      "leather",
+      "soft"
+    ],
+    "svg_path": "../svg/radicals/178.svg"
+  },
+  {
+    "num": 179,
+    "id": "韭",
+    "pinyin": "jiǔ",
+    "gloss": "leek",
+    "strokes": 9,
+    "tags": [
+      "leek"
+    ],
+    "svg_path": "../svg/radicals/179.svg"
+  },
+  {
+    "num": 180,
+    "id": "音",
+    "pinyin": "yīn",
+    "gloss": "sound",
+    "strokes": 9,
+    "tags": [
+      "sound"
+    ],
+    "svg_path": "../svg/radicals/180.svg"
+  },
+  {
+    "num": 181,
+    "id": "页",
+    "pinyin": "yè",
+    "gloss": "page",
+    "strokes": 6,
+    "tags": [
+      "page"
+    ],
+    "svg_path": "../svg/radicals/181.svg"
+  },
+  {
+    "num": 182,
+    "id": "风",
+    "pinyin": "fēng",
+    "gloss": "wind",
+    "strokes": 4,
+    "tags": [
+      "wind"
+    ],
+    "svg_path": "../svg/radicals/182.svg"
+  },
+  {
+    "num": 183,
+    "id": "飞",
+    "pinyin": "fēi",
+    "gloss": "fly",
+    "strokes": 4,
+    "tags": [
+      "fly"
+    ],
+    "svg_path": "../svg/radicals/183.svg"
+  },
+  {
+    "num": 184,
+    "id": "饣",
+    "pinyin": "shí",
+    "gloss": "eat",
+    "strokes": 3,
+    "tags": [
+      "eat"
+    ],
+    "svg_path": "../svg/radicals/184.svg"
+  },
+  {
+    "num": 185,
+    "id": "首",
+    "pinyin": "shǒu",
+    "gloss": "head",
+    "strokes": 9,
+    "tags": [
+      "head"
+    ],
+    "svg_path": "../svg/radicals/185.svg"
+  },
+  {
+    "num": 186,
+    "id": "香",
+    "pinyin": "xiāng",
+    "gloss": "fragrant",
+    "strokes": 9,
+    "tags": [
+      "fragrant"
+    ],
+    "svg_path": "../svg/radicals/186.svg"
+  },
+  {
+    "num": 187,
+    "id": "马",
+    "pinyin": "mǎ",
+    "gloss": "horse",
+    "strokes": 3,
+    "tags": [
+      "animal",
+      "horse",
+      "ride"
+    ],
+    "svg_path": "../svg/radicals/187.svg"
+  },
+  {
+    "num": 188,
+    "id": "骨",
+    "pinyin": "gǔ",
+    "gloss": "bone",
+    "strokes": 9,
+    "tags": [
+      "bone"
+    ],
+    "svg_path": "../svg/radicals/188.svg"
+  },
+  {
+    "num": 189,
+    "id": "高",
+    "pinyin": "gāo",
+    "gloss": "high",
+    "strokes": 10,
+    "tags": [
+      "high"
+    ],
+    "svg_path": "../svg/radicals/189.svg"
+  },
+  {
+    "num": 190,
+    "id": "髟",
+    "pinyin": "biāo",
+    "gloss": "long hair",
+    "strokes": 10,
+    "tags": [
+      "hair",
+      "long"
+    ],
+    "svg_path": "../svg/radicals/190.svg"
+  },
+  {
+    "num": 191,
+    "id": "鬥",
+    "pinyin": "dòu",
+    "gloss": "fight",
+    "strokes": 10,
+    "tags": [
+      "fight"
+    ],
+    "svg_path": "../svg/radicals/191.svg"
+  },
+  {
+    "num": 192,
+    "id": "鬯",
+    "pinyin": "chàng",
+    "gloss": "sacrificial wine",
+    "strokes": 10,
+    "tags": [
+      "sacrificial",
+      "wine"
+    ],
+    "svg_path": "../svg/radicals/192.svg"
+  },
+  {
+    "num": 193,
+    "id": "鬲",
+    "pinyin": "lì",
+    "gloss": "cauldron",
+    "strokes": 10,
+    "tags": [
+      "cauldron"
+    ],
+    "svg_path": "../svg/radicals/193.svg"
+  },
+  {
+    "num": 194,
+    "id": "鬼",
+    "pinyin": "guǐ",
+    "gloss": "ghost",
+    "strokes": 9,
+    "tags": [
+      "ghost"
+    ],
+    "svg_path": "../svg/radicals/194.svg"
+  },
+  {
+    "num": 195,
+    "id": "鱼",
+    "pinyin": "yú",
+    "gloss": "fish",
+    "strokes": 8,
+    "tags": [
+      "fish",
+      "river",
+      "seafood",
+      "swim"
+    ],
+    "svg_path": "../svg/radicals/195.svg"
+  },
+  {
+    "num": 196,
+    "id": "鸟",
+    "pinyin": "niǎo",
+    "gloss": "bird",
+    "strokes": 5,
+    "tags": [
+      "bird",
+      "feather",
+      "fly",
+      "wing"
+    ],
+    "svg_path": "../svg/radicals/196.svg"
+  },
+  {
+    "num": 197,
+    "id": "卤",
+    "pinyin": "lǔ",
+    "gloss": "salty",
+    "strokes": 7,
+    "tags": [
+      "salty"
+    ],
+    "svg_path": "../svg/radicals/197.svg"
+  },
+  {
+    "num": 198,
+    "id": "鹿",
+    "pinyin": "lù",
+    "gloss": "deer",
+    "strokes": 11,
+    "tags": [
+      "deer"
+    ],
+    "svg_path": "../svg/radicals/198.svg"
+  },
+  {
+    "num": 199,
+    "id": "麦",
+    "pinyin": "mài",
+    "gloss": "wheat",
+    "strokes": 7,
+    "tags": [
+      "wheat"
+    ],
+    "svg_path": "../svg/radicals/199.svg"
+  },
+  {
+    "num": 200,
+    "id": "麻",
+    "pinyin": "má",
+    "gloss": "hemp",
+    "strokes": 11,
+    "tags": [
+      "hemp"
+    ],
+    "svg_path": "../svg/radicals/200.svg"
+  },
+  {
+    "num": 201,
+    "id": "黄",
+    "pinyin": "huáng",
+    "gloss": "yellow",
+    "strokes": 11,
+    "tags": [
+      "yellow"
+    ],
+    "svg_path": "../svg/radicals/201.svg"
+  },
+  {
+    "num": 202,
+    "id": "黍",
+    "pinyin": "shǔ",
+    "gloss": "millet",
+    "strokes": 12,
+    "tags": [
+      "millet"
+    ],
+    "svg_path": "../svg/radicals/202.svg"
+  },
+  {
+    "num": 203,
+    "id": "黑",
+    "pinyin": "hēi",
+    "gloss": "black",
+    "strokes": 12,
+    "tags": [
+      "black"
+    ],
+    "svg_path": "../svg/radicals/203.svg"
+  },
+  {
+    "num": 204,
+    "id": "黹",
+    "pinyin": "zhǐ",
+    "gloss": "embroidery",
+    "strokes": 12,
+    "tags": [
+      "embroidery"
+    ],
+    "svg_path": "../svg/radicals/204.svg"
+  },
+  {
+    "num": 205,
+    "id": "黾",
+    "pinyin": "mǐn",
+    "gloss": "frog",
+    "strokes": 8,
+    "tags": [
+      "frog"
+    ],
+    "svg_path": "../svg/radicals/205.svg"
+  },
+  {
+    "num": 206,
+    "id": "鼎",
+    "pinyin": "dǐng",
+    "gloss": "tripod",
+    "strokes": 12,
+    "tags": [
+      "tripod"
+    ],
+    "svg_path": "../svg/radicals/206.svg"
+  },
+  {
+    "num": 207,
+    "id": "鼓",
+    "pinyin": "gǔ",
+    "gloss": "drum",
+    "strokes": 13,
+    "tags": [
+      "drum"
+    ],
+    "svg_path": "../svg/radicals/207.svg"
+  },
+  {
+    "num": 208,
+    "id": "鼠",
+    "pinyin": "shǔ",
+    "gloss": "rat",
+    "strokes": 13,
+    "tags": [
+      "rat"
+    ],
+    "svg_path": "../svg/radicals/208.svg"
+  },
+  {
+    "num": 209,
+    "id": "鼻",
+    "pinyin": "bí",
+    "gloss": "nose",
+    "strokes": 14,
+    "tags": [
+      "nose"
+    ],
+    "svg_path": "../svg/radicals/209.svg"
+  },
+  {
+    "num": 210,
+    "id": "齐",
+    "pinyin": "qí",
+    "gloss": "even",
+    "strokes": 6,
+    "tags": [
+      "even"
+    ],
+    "svg_path": "../svg/radicals/210.svg"
+  },
+  {
+    "num": 211,
+    "id": "齿",
+    "pinyin": "chǐ",
+    "gloss": "tooth",
+    "strokes": 8,
+    "tags": [
+      "tooth"
+    ],
+    "svg_path": "../svg/radicals/211.svg"
+  },
+  {
+    "num": 212,
+    "id": "龙",
+    "pinyin": "lóng",
+    "gloss": "dragon",
+    "strokes": 5,
+    "tags": [
+      "dragon"
+    ],
+    "svg_path": "../svg/radicals/212.svg"
+  },
+  {
+    "num": 213,
+    "id": "龟",
+    "pinyin": "guī",
+    "gloss": "turtle",
+    "strokes": 7,
+    "tags": [
+      "turtle"
+    ],
+    "svg_path": "../svg/radicals/213.svg"
+  },
+  {
+    "num": 214,
+    "id": "龠",
+    "pinyin": "yuè",
+    "gloss": "flute",
+    "strokes": 17,
+    "tags": [
+      "flute"
+    ],
+    "svg_path": "../svg/radicals/214.svg"
+  }
+]
