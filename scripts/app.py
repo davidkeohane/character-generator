@@ -6,12 +6,12 @@ from flask import Flask, request, render_template_string, send_from_directory
 import pathlib, time, json, re
 
 # --- Imports for your logic ---
-#from scripts.choose_embed import choose          # embedding-based chooser
-#from scripts.cedict_lookup import search_en      # CC-CEDICT lookups
-#from scripts.compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
-from choose_embed import choose
-from cedict_lookup import search_en
-from compose_svg import compose_lr, compose_tb
+from scripts.choose_embed import choose          # embedding-based chooser
+from scripts.cedict_lookup import search_en      # CC-CEDICT lookups
+from scripts.compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
+#from choose_embed import choose
+#from cedict_lookup import search_en
+#from compose_svg import compose_lr, compose_tb
 
 
 # --- Paths & globals ---
