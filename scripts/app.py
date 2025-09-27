@@ -6,9 +6,13 @@ from flask import Flask, request, render_template_string, send_from_directory
 import pathlib, time, json, re
 
 # --- Imports for your logic ---
-from scripts.choose_embed import choose          # embedding-based chooser
-from scripts.cedict_lookup import search_en      # CC-CEDICT lookups
-from scripts.compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
+#from scripts.choose_embed import choose          # embedding-based chooser
+#from scripts.cedict_lookup import search_en      # CC-CEDICT lookups
+#from scripts.compose_svg import compose_lr, compose_tb  # ⿰ (lr) and ⿱ (tb)
+from choose_embed import choose
+from cedict_lookup import search_en
+from compose_svg import compose_lr, compose_tb
+
 
 # --- Paths & globals ---
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -94,7 +98,7 @@ HTML = """
   .muted { color:#666; }
 </style>
 
-<h1>Professor Torre's Fantasmagical Character Creator Extraordinaire!</h1>
+<h1>Character Creator</h1>
 <form method="GET">
   <input type="text" name="q" placeholder="Type a word here please" value="{{q or ''}}" autofocus>
   <select name="k">
@@ -159,10 +163,10 @@ HTML = """
     <p>No results (this shouldn’t happen). Try another word.</p>
   {% endif %}
 {% else %}
-  <p class="muted">Tip: words with <i>ism</i> at the end can be funny.</p>
+  <p class="muted">Create your own pictogram for only 79.99 a month!</p>
 {% endif %}
 """
-
+#<p class="muted">Tip: words with <i>ism</i> at the end can be funny.</p>
 # ---------------- Composition ----------------
 
 def compose_new_character(word, picks, layout="lr"):
